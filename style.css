@@ -1,0 +1,11 @@
+.notch {
+  width: 120px;
+  height: 30px;
+  background: #111;
+  border-radius: 0 0 20px 20px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
